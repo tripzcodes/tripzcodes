@@ -7,38 +7,6 @@
     ──────────────────────────────────────
 ```
 
-# Youssef Ashraf
-
-```
-    ──────────────────────────────────────
-    Ex-Professional Esports Player 
-    Game Developer & Security Engineer
-    ──────────────────────────────────────
-```
-
-## Stack
-```
-C/C++ • C# • Python • Assembly • JavaScript
-React • Firebase • OpenGL • Unreal Engine
-```
-
-## Focus
-```
-Kernel-level programming & reverse engineering
-Anti-cheat & security systems
-Game performance optimization
-Low-level system architecture
-```
-
-# Youssef Ashraf
-
-```
-    ──────────────────────────────────────
-    Ex-Professional Esports Player 
-    Game Developer & Security Engineer
-    ──────────────────────────────────────
-```
-
 ## Stack
 ```
 C/C++ • C# • Python • Assembly • JavaScript
