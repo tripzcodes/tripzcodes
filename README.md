@@ -40,8 +40,6 @@ tripz.cc         Full-stack web applications
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=tripzcodes&theme=darkhub&no-frame=true&no-bg=true&margin-w=4)
 
-[![Spotify](https://spotify-github-profile.vercel.app/api/spotify)](https://open.spotify.com/user/itr1pz)
-
 </div>
 
 ```
