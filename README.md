@@ -42,8 +42,3 @@ tripz.cc         Full-stack web applications
 
 </div>
 
-```
-    ──────────────────────────────────────
-    "From competitive arenas to code"
-    ──────────────────────────────────────
-```
