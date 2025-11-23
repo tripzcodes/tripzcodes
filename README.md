@@ -1,20 +1,5 @@
 # Youssef Ashraf
 
-```
-    ──────────────────────────────────────
-    Ex-Professional Esports Player 
-    Game Developer & Security Engineer
-    ──────────────────────────────────────
-```
-
-
-## Focus
-```
-Kernel-level programming & reverse engineering
-Anti-cheat & security systems
-Game performance optimization
-Low-level system architecture
-```
 
 ## Stats
 
